@@ -1,0 +1,6 @@
+{
+  "home": {
+    "hello": "Hola {{ name }}",
+    "title": "Listar Tareas"
+  }
+}
